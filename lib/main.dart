@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'screens/catalog_home_page.dart';
+import 'screens/login_page.dart';
 import 'screens/product_detail_page.dart';
 import 'models/product.dart';
 
@@ -42,8 +42,7 @@ class CatalogoSenatiApp extends StatelessWidget {
           ),
         ),
       ),
-      initialRoute: '/',
-      routes: {'/': (_) => const CatalogHomePage()},
+      home: const LoginPage(),
       onGenerateRoute: (settings) {
         if (settings.name == '/details') {
           final product = settings.arguments;

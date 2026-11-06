@@ -9,6 +9,11 @@ void main() {
     addTearDown(tester.view.resetPhysicalSize);
     addTearDown(tester.view.resetDevicePixelRatio);
     await tester.pumpWidget(const CatalogoSenatiApp());
+    expect(find.text('Acceso al catálogo'), findsOneWidget);
+    await tester.enterText(find.byKey(const Key('login-username')), 'admin');
+    await tester.enterText(find.byKey(const Key('login-password')), 'admin123');
+    await tester.tap(find.text('Ingresar'));
+    await tester.pumpAndSettle();
     await tester.runAsync(
       () => Future<void>.delayed(const Duration(milliseconds: 100)),
     );
@@ -77,5 +82,41 @@ void main() {
 
     expect(find.text('Monitor de prueba'), findsOneWidget);
     expect(find.text('S/. 450.00'), findsOneWidget);
+  });
+
+  testWidgets('rechaza credenciales inválidas y permite ingresar a Empleado', (
+    tester,
+  ) async {
+    await tester.pumpWidget(const CatalogoSenatiApp());
+    await tester.enterText(find.byKey(const Key('login-username')), 'admin');
+    await tester.enterText(
+      find.byKey(const Key('login-password')),
+      'incorrecta',
+    );
+    await tester.tap(find.text('Ingresar'));
+    await tester.pumpAndSettle();
+
+    expect(find.text('Usuario o contraseña incorrectos'), findsOneWidget);
+    expect(find.text('Catálogo SENATI'), findsNothing);
+
+    await tester.enterText(find.byKey(const Key('login-username')), 'Empleado');
+    await tester.enterText(find.byKey(const Key('login-password')), '1234');
+    expect(
+      tester
+          .widget<TextFormField>(find.byKey(const Key('login-username')))
+          .controller!
+          .text,
+      'Empleado',
+    );
+    expect(
+      tester
+          .widget<TextFormField>(find.byKey(const Key('login-password')))
+          .controller!
+          .text,
+      '1234',
+    );
+    await tester.tap(find.text('Ingresar'));
+    await tester.pumpAndSettle();
+    expect(find.text('Iniciar sesión'), findsNothing);
   });
 }
