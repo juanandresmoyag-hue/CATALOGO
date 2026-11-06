@@ -29,3 +29,10 @@ Verificar las pruebas de interfaz:
 ```bash
 flutter test
 ```
+
+## Publicar en Vercel
+
+`vercel.json` configura Vercel para descargar Flutter 3.47.9, preparar el
+entorno web, instalar las dependencias y compilar la aplicación en `build/web`.
+Sube el proyecto completo al repositorio conectado con Vercel y deja como
+directorio raíz del proyecto la carpeta donde está `vercel.json`.
