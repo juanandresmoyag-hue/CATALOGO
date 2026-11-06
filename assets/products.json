@@ -1,0 +1,662 @@
+[
+  {
+    "name": "Adaptador Ethernet",
+    "category": "Desktop",
+    "price": 59.00,
+    "description": "Diseñado para convertir un puerto USB en una conexión de red RJ45 con velocidades de hasta 10/100/1000 Mbps."
+  },
+  {
+    "name": "Adaptador HDMI to VGA",
+    "category": "Desktop",
+    "price": 29.00,
+    "description": "Sin descripción adicional en el sistema."
+  },
+  {
+    "name": "Adaptador multipuerto",
+    "category": "Laptop",
+    "price": 39.00,
+    "description": "Adaptador Xtech XTC-566 3-en-1 (USB-C a HDMI, USB y cargadores) con carcasa de aluminio."
+  },
+  {
+    "name": "All In One",
+    "category": "Desktop",
+    "price": 1600.00,
+    "description": "Sin descripción adicional en el sistema."
+  },
+  {
+    "name": "Audífonos Philips",
+    "category": "Laptop",
+    "price": 39.00,
+    "description": "Modelo BASS+ SHB4305 con conexión inalámbrica Bluetooth, micrófono integrado y hasta 6 horas de autonomía."
+  },
+  {
+    "name": "Auriculares Cybertel",
+    "category": "Desktop",
+    "price": 99.00,
+    "description": "Sin descripción adicional en el sistema."
+  },
+  {
+    "name": "Auriculares ENKORE",
+    "category": "Desktop",
+    "price": 65.00,
+    "description": "Modelo Brain 5.1."
+  },
+  {
+    "name": "Auriculares Teros",
+    "category": "Laptop",
+    "price": 65.00,
+    "description": "Modelo TE-8080, inalámbricos Bluetooth, diseño plegable, ergonómico y sonido de alta definición."
+  },
+  {
+    "name": "Base disipadora de calor para laptop",
+    "category": "Laptop",
+    "price": 95.00,
+    "description": "Marca AIRBOOM con iluminación LED azul, 2 coolers de 125 mm, 6 niveles de altura y 2 puertos USB 2.0."
+  },
+  {
+    "name": "Bocina Bluethoot LED",
+    "category": "Otros",
+    "price": 25.00,
+    "description": "Luces LED RGB cambiantes, batería recargable de hasta 4 horas y función TWS."
+  },
+  {
+    "name": "Bocina Bluethoot rosa",
+    "category": "Otros",
+    "price": 25.00,
+    "description": "Modelo GTS-1391."
+  },
+  {
+    "name": "Cabezales Canon (reemplazables)",
+    "category": "Impresora",
+    "price": 320.00,
+    "description": "Compatibles con impresoras de la serie Canon PIXMA G (G1100, G2100, G3100, G2110 y G3110)."
+  },
+  {
+    "name": "Cable HDMI",
+    "category": "Desktop",
+    "price": 35.00,
+    "description": "Marca CB2061."
+  },
+  {
+    "name": "Cable reforzado",
+    "category": "Otros",
+    "price": 13.00,
+    "description": "Marca SUPER, alta velocidad de transmisión y carga, tecnología anti-enrollamiento, duradero y resistente."
+  },
+  {
+    "name": "Cámara Web Microsonic",
+    "category": "Desktop",
+    "price": 125.00,
+    "description": "Modelo Quantum MIC W709 con resolución 2K a 30 FPS, enfoque automático, trípode y micrófono incorporado."
+  },
+  {
+    "name": "Cargador de 50 W",
+    "category": "Otros",
+    "price": 28.00,
+    "description": "Kit Super Astro Cr19 blanco, potencia de carga de hasta 60W, incluye cable Tipo C."
+  },
+  {
+    "name": "Cargador de batería universal",
+    "category": "Laptop",
+    "price": 75.00,
+    "description": "Marca MINKU de 120W, incluye 9 conectores intercambiables y voltaje de salida ajustable de 12V a 24V."
+  },
+  {
+    "name": "CB209",
+    "category": "Otros",
+    "price": 25.00,
+    "description": "Cargador triple entrada modelo CB209."
+  },
+  {
+    "name": "Combo 4 in 1",
+    "category": "Laptop",
+    "price": 190.00,
+    "description": "Combo gamer Halion HA-870C Akula que incluye teclado, mouse, auriculares y alfombrilla."
+  },
+  {
+    "name": "Computadora i3 - 3220",
+    "category": "Desktop",
+    "price": 350.00,
+    "description": "ENKORE COACH, uso básico de oficina, disco de 1TB HDD y tarjeta gráfica GT 730 (2GB)."
+  },
+  {
+    "name": "Computadora i3 - 3470",
+    "category": "Desktop",
+    "price": 350.00,
+    "description": "Trabajos básicos de oficina, clases virtuales y soporte para juegos ligeros (LoL, Minecraft, Roblox, Fortnite)."
+  },
+  {
+    "name": "Computadora i3 - 8100",
+    "category": "Desktop",
+    "price": 890.00,
+    "description": "Trabajo exigente de oficina, diseño gráfico básico (Canva, Photoshop, Illustrator) y emuladores de Android."
+  },
+  {
+    "name": "Computadora i3 - 9100",
+    "category": "Desktop",
+    "price": 990.00,
+    "description": "T-CREATE, ideal para programación (VS Code, Python, SQL) y juegos (GTA V, Valorant, Fortnite, etc.)."
+  },
+  {
+    "name": "Computadora i5 - 4570",
+    "category": "Desktop",
+    "price": 590.00,
+    "description": "RAM 4GB, SSD 256GB, apto para diseño y edición básica de videos y juegos escolares."
+  },
+  {
+    "name": "Computadora i5 - 8500",
+    "category": "Desktop",
+    "price": 890.00,
+    "description": "Dell, RAM 8GB, SSD 256GB, excelente para oficina, clases, diseño y juegos como Fortnite o Minecraft."
+  },
+  {
+    "name": "Concentrador USB",
+    "category": "Desktop",
+    "price": 35.00,
+    "description": "Hub USB 2.0 Card Reader que sirve como lector de tarjetas (SD/Micro SD) y multiplicador de puertos."
+  },
+  {
+    "name": "Docking station",
+    "category": "Laptop",
+    "price": 45.00,
+    "description": "Estación Kikc Type-C con cuatro puertos USB 3.0 para transferencia rápida de datos."
+  },
+  {
+    "name": "Equipo de sonido",
+    "category": "Otros",
+    "price": 170.00,
+    "description": "Halion HA-K37 de 80 Watts con Bluetooth, luces LED, radio FM y lector USB/SD."
+  },
+  {
+    "name": "Estabilizador de voltaje 1000 VA Negro",
+    "category": "Desktop",
+    "price": 135.00,
+    "description": "Power Lite Quazar, capacidad de 650W con 8 tomas universales, función AVR y material retardante al fuego."
+  },
+  {
+    "name": "Estabilizador de voltaje grueso 1100 VA Amarillo",
+    "category": "Desktop",
+    "price": 95.00,
+    "description": "Power Lite Altair PLI1100 de 1100VA/550W con 8 salidas protegidas contra sobrecargas."
+  },
+  {
+    "name": "Fuente de poder AVATEC",
+    "category": "Desktop",
+    "price": 38.00,
+    "description": "Sin descripción adicional en el sistema."
+  },
+  {
+    "name": "Fuente de poder pequeña para PC",
+    "category": "Desktop",
+    "price": 95.00,
+    "description": "Microsonic Micro ATX Serie 2500 con potencia real de 250W (pico de 650W), conectores SATA y ATA/IDE."
+  },
+  {
+    "name": "HD Video Converter",
+    "category": "Laptop",
+    "price": 85.00,
+    "description": "Soporta resoluciones Full HD 1080p para monitor o TV, requiere alimentación USB y transmite audio de 3.5 mm."
+  },
+  {
+    "name": "Kit Inalámbrico",
+    "category": "Desktop",
+    "price": 79.00,
+    "description": "Micronic Quantum WT813 con teclado multimedia (teclas tipo chocolate) y mouse inalámbrico de 2.4 GHz."
+  },
+  {
+    "name": "Laptop (Lenovo i7 de 4ª)",
+    "category": "Laptop",
+    "price": 650.00,
+    "description": "Modelo con procesador i7 de cuarta generación."
+  },
+  {
+    "name": "Laptop i3 de 1ª",
+    "category": "Laptop",
+    "price": 950.00,
+    "description": "Lenovo, cuenta con RAM de 8GB y un almacenamiento en disco de 239 GB WDC."
+  },
+  {
+    "name": "Laptop i3 de 7ª",
+    "category": "Laptop",
+    "price": 990.00,
+    "description": "HP, cuenta con RAM de 8GB y un disco sólido Kingston de 224 GB."
+  },
+  {
+    "name": "Laptop i5 de 10ª",
+    "category": "Laptop",
+    "price": 1290.00,
+    "description": "Dell con procesador i5 de décima generación."
+  },
+  {
+    "name": "Laptop i5 de 2ª",
+    "category": "Laptop",
+    "price": 550.00,
+    "description": "HP con procesador i5 de segunda generación."
+  },
+  {
+    "name": "Monitor de 24 pulgadas",
+    "category": "Monitor",
+    "price": 90.00,
+    "description": "Marca Lenovo."
+  },
+  {
+    "name": "Monitor de 30 pulgadas LG",
+    "category": "Monitor",
+    "price": 110.00,
+    "description": "Panel LED, resolución HD/Full HD, formato 16:9, tiempo de respuesta de 5 ms y entrada VGA."
+  },
+  {
+    "name": "Monitor de 30 pulgadas Samsung",
+    "category": "Monitor",
+    "price": 180.00,
+    "description": "Modelo S22B300H."
+  },
+  {
+    "name": "Monitor grande",
+    "category": "Monitor",
+    "price": 310.00,
+    "description": "BenQ Modelo GL2450-B."
+  },
+  {
+    "name": "Monitor Samsung pequeño",
+    "category": "Monitor",
+    "price": 90.00,
+    "description": "Modelo 932NW, pantalla LCD TFT, formato 16:10, respuesta de 5 ms y conectividad VGA."
+  },
+  {
+    "name": "Mouse Gaming",
+    "category": "Mouse",
+    "price": 39.00,
+    "description": "CBTRADE CB-2002 con sensor óptico de hasta 3200 DPI y botones laterales rápidos."
+  },
+  {
+    "name": "Mouse Genius",
+    "category": "Mouse",
+    "price": 15.00,
+    "description": "Modelo M 550, diseño compacto de 3 botones con rueda de desplazamiento."
+  },
+  {
+    "name": "Mouse inalámbrico ENKORE",
+    "category": "Mouse",
+    "price": 20.00,
+    "description": "Sensor óptico regulable (1200-6400 DPI), retroiluminación LED RGB automática y cable reforzado."
+  },
+  {
+    "name": "Mousepad Gaming",
+    "category": "Mouse",
+    "price": 35.00,
+    "description": "Halion MP-12 con diseño \"Game Over\", tela de alta densidad resistente al sudor (75x28x3 cm)."
+  },
+  {
+    "name": "Intel Core i5 - 2320",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i5 - 2400",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i5 - 3450",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i5 - 4590",
+    "category": "Laptop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i5 - 11400",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i5 - 3470",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i5 - 10400F",
+    "category": "Desktop",
+    "price": 1700.00,
+    "description": "Indica que necesita una tarjeta gráfica dedicada obligatoriamente."
+  },
+  {
+    "name": "Intel Core i5 - 4570",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i5 - 750",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "AMD Sempron",
+    "category": "Laptop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "AMD Athlon II",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "AMD FX",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "AMD A6 - 3500",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "AMD Phenom",
+    "category": "Laptop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "AMD Ryzen 3 3200G",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i3 - 3200",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i3 - 2100",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i3 - 10100T",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i3 - 8100",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i3 - 530",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i3 - 4160",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i3 - 2120",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i3 - 3220",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i3 - 9100F",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Pentium G620",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Pentium Dual Core",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Pentium ® 4",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Pentium ® D",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Pentium G3220",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core Duo E8400",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core Duo E7500",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core Duo 6300",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core Duo 05",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core Duo E4500",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core Duo E6550",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i7 - 7700",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i7 - 860",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i7 - 4790",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i7 - 3770",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Intel Core i5 - 12400",
+    "category": "Desktop",
+    "price": 0.00,
+    "description": "Procesador/Componente registrado individualmente."
+  },
+  {
+    "name": "Parlantes",
+    "category": "Desktop",
+    "price": 29.00,
+    "description": "Cybertel Rocker+ CYB S105, acabado brillante negro, conexión alimentada por USB y jack 3.5 mm, sistema estéreo 2.0."
+  },
+  {
+    "name": "Parlantes blancos",
+    "category": "Desktop",
+    "price": 55.00,
+    "description": "Micronics Corsair MIC S309-9W con iluminación LED RGB, configuración 2.0, alimentado por USB y control de volumen integrado."
+  },
+  {
+    "name": "Parlantes Gamer Cybertel",
+    "category": "Desktop",
+    "price": 39.00,
+    "description": "Spectrum CBX S303, iluminación LED RGB, configuración 2.0 con bocinas de 2 pulgadas y potencia de 10W."
+  },
+  {
+    "name": "Parlantes Gamer Halion",
+    "category": "Desktop",
+    "price": 63.00,
+    "description": "Modelo HA-S340 RGB con iluminación LED, sistema 2.0 con jack 3.5 mm y potencia de 6W."
+  },
+  {
+    "name": "Parlantes negros",
+    "category": "Desktop",
+    "price": 49.00,
+    "description": "Micronics Avanty con iluminación LED RGB, alimentación por cable USB, control de volumen y luces en línea."
+  },
+  {
+    "name": "Ponchadora de cables Ethernet",
+    "category": "Desktop",
+    "price": 35.00,
+    "description": "Crimpeadora genérica 3 en 1 para cables RJ45 y RJ11, estructura de acero y mango verde para cortar, pelar y engarzar."
+  },
+  {
+    "name": "Switch (puente) para red",
+    "category": "Desktop",
+    "price": 85.00,
+    "description": "TP-Link TL-SF1008D de 8 puertos (10/100 Mbps) con tecnología Green que permite ahorrar hasta el 60% de energía."
+  },
+  {
+    "name": "Tarjeta de red",
+    "category": "Desktop",
+    "price": 95.00,
+    "description": "TP-Link TG-3468, adaptador de alta velocidad para ranura PCIe de computadoras de escritorio."
+  },
+  {
+    "name": "Tarjeta gráfica GIGABYTE",
+    "category": "Desktop",
+    "price": 1800.00,
+    "description": "GeForce RTX 4060 Eagle OC 8G, optimizada para gaming 1080p Ultra, arquitectura Ada Lovelace y soporte DLSS 3."
+  },
+  {
+    "name": "Teclado + Mouse ENKORE",
+    "category": "Teclado",
+    "price": 70.00,
+    "description": "Modelo EXCEL."
+  },
+  {
+    "name": "Teclado + Mouse Microsonic",
+    "category": "Teclado",
+    "price": 79.00,
+    "description": "Modelo QUANTUM inalámbrico de 2.4 GHz, incluye teclado con ranura para smartphone y distribución en español."
+  },
+  {
+    "name": "Teclado + Mouse Teros",
+    "category": "Teclado",
+    "price": 65.00,
+    "description": "Combo inalámbrico TE-4061N de 2.4 GHz, teclado multimedia en español y mouse óptico de 1000 DPI."
+  },
+  {
+    "name": "Teclado Blueethoot",
+    "category": "Teclado",
+    "price": 58.00,
+    "description": "Micronics Quantum MIC K600-3M, recargable, soporta tres modos de conexión (Bluetooth, inalámbrico y cable)."
+  },
+  {
+    "name": "Teclado ENKORE",
+    "category": "Teclado",
+    "price": 29.00,
+    "description": "Modelo Stone K100, alámbrico USB con teclas resistentes al desgaste y distribución en español."
+  },
+  {
+    "name": "Teclado Gamer",
+    "category": "Teclado",
+    "price": 75.00,
+    "description": "Cybertel Xtreme CYB K505W en color blanco con luces LED Rainbow y 19 teclas Anti-Ghosting."
+  },
+  {
+    "name": "Teclado Logitech",
+    "category": "Teclado",
+    "price": 40.00,
+    "description": "Modelo K400 Plus inalámbrico con touchpad integrado, ideal para Smart TV y PC."
+  },
+  {
+    "name": "Teclado pequeño",
+    "category": "Teclado",
+    "price": 58.00,
+    "description": "Micronics Quantum MIC K600-3m, inalámbrico recargable con Bluetooth y 12 teclas multimedia tipo chocolate."
+  },
+  {
+    "name": "Testeador de cables",
+    "category": "Desktop",
+    "price": 30.00,
+    "description": "Herramienta marca NENGSHISU para comprobar hilos internos rotos, cables cruzados o cortocircuitos; divisible en dos piezas."
+  },
+  {
+    "name": "Tinta HP",
+    "category": "Impresora",
+    "price": 35.00,
+    "description": "Modelo GT52 amarillo original de 70 ml para sistemas continuos (Smart Tank e Ink Tank); rinde hasta 8,000 páginas."
+  },
+  {
+    "name": "Tinta Jetlife",
+    "category": "Impresora",
+    "price": 35.00,
+    "description": "Botella de tinta negra de 127 ml compatible con impresoras Epson T504."
+  },
+  {
+    "name": "Tinta Jetlife (varios colores)",
+    "category": "Impresora",
+    "price": 30.00,
+    "description": "Botellas compatibles con Epson en colores Negro, Cian, Magenta y Amarillo. Oferta de los 4 colores por S/27."
+  },
+  {
+    "name": "Tinta para impresora Epson",
+    "category": "Impresora",
+    "price": 55.00,
+    "description": "Modelo 504 original disponible en azul, rojo, amarillo y negro. Oferta de los 4 colores por S/50.00."
+  }
+]
